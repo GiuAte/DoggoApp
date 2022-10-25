@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DoggoApp</string>
+    <string name="randomize">Randomize Your Doggo</string>
+    <string name="welcome" >Welcome to the Doggo App</string>
+</resources>
